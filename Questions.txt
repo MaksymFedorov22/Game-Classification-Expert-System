@@ -1,0 +1,263 @@
+(виберіть відповіть ввівши номер варіанту)
+
+Який жанр комп'ютерних ігор вам бльше подобається?
+    1. Бойовики
+        Який тип бойовиків вам більше подобається?
+            1. Аркади й ритм-ігри
+            https://store.steampowered.com/category/arcade_rhythm/
+                Виберіть варіант, який вам більше подобається:
+                    1. Кооперативна гра
+                        CUPHEAD
+                    2. Одиночна гра
+                        GEOMETRY DASH
+            2. Перестріляти всіх
+            https://store.steampowered.com/category/shmup/
+                Виберіть варіант, який вам більше подобається:
+                    1. Складна гра
+                        ENTER THE GUNGEON
+                    2. Легка гра
+                        VAMPIRE SURVIVORS
+            3. Платформери й бігання
+            https://store.steampowered.com/category/action_run_jump/
+                Виберіть варіант, який вам більше подобається:
+                    1. Гра головоломка
+                        PORTAL
+                    2. Гра платформер
+                        HOLLOW KNIGHT
+            4. Поєдинки й бойові мистецтва
+            https://store.steampowered.com/category/fighting_martial_arts/
+                Виберіть варіант, який вам більше подобається:
+                    1. Двовимірний поєдинок
+                        BRAWLHALLA
+                    2. Симулятор
+                        WWE 2K23
+            5. Рубанина
+            https://store.steampowered.com/category/hack_and_slash/
+                Виберіть варіант, який вам більше подобається:
+                    1. Піксельна графіка
+                        DEAD CELLS
+                    2. Тривимірна фантастика
+                        DEVIL MAY CRY 5
+            6. Стрілянки від першої особи
+            https://store.steampowered.com/category/action_fps/
+                Виберіть варіант, який вам більше подобається:
+                    1. Реалістична графіка
+                        COUNTER-STRIKE: GLOBAL OFFENSIVE
+                    2. Мультяшний дизайн
+                        VALORANT
+            7. Стрілянки від третьої особи
+            https://store.steampowered.com/category/action_tps/
+                Виберіть варіант, який вам більше подобається:
+                    1. Ігри про події сучасного світу
+                        GRAND THEFT AUTO V
+                    2. Ігри про події минулого
+                        RED DEAD REDEMPTION 2
+    2. Рольові
+        Який тип рольових ігор вам більше подобається?
+            1. Групові ігри
+            https://store.steampowered.com/category/rpg_party_based/
+                Виберіть варіант, який вам більше подобається:
+                    1. Фентезі
+                        DIVINITY: ORIGINAL SIN 2 - DEFINITIVE EDITION
+                    2. Наукова фантастика
+                        STAR WARS™ KNIGHTS OF THE OLD REPUBLIC™
+            2. Мандрівні ігри
+            https://store.steampowered.com/category/rogue_like_rogue_lite/
+                Виберіть варіант, який вам більше подобається:
+                    1. Наукова фантастика
+                        STAR WARS JEDI: SURVIVOR™
+                    2. Фентезі
+                        ELDEN RING
+            3. Покрокові ігри
+            https://store.steampowered.com/category/rpg_turn_based/
+                Виберіть варіант, який вам більше подобається:
+                    1. Покрокові бої
+                        PATHFINDER: WRATH OF THE RIGHTEOUS - ENHANCED EDITION
+                    2. Ігри з глибоким сюжетом
+                        BALDUR'S GATE 3
+            4. Пригодницькі рольові ігри
+            https://store.steampowered.com/category/adventure_rpg/
+                Виберіть варіант, який вам більше подобається:
+                    1. Глибокий сюжет
+                        ВІДЬМАК® 3: ДИКИЙ ГІН
+                    2. Темне фентезі
+                        DARK SOULS™ III
+                    3. Магія
+                        HOGWARTS LEGACY
+            5. Рольові бойовики
+            https://store.steampowered.com/category/rpg_action/
+                Виберіть варіант, який вам більше подобається:
+                    1. Стрілянка зі збиранням
+                        WARFRAME
+                    2. Відкритий світ
+                        ELDEN RING
+            6. Стратегічні рольові ігри
+            https://store.steampowered.com/category/rpg_strategy_tactics/
+                Виберіть варіант, який вам більше подобається:
+                    1. Симулятор
+                        CRUSADER KINGS III
+                    2. Мультиплеєр
+                        DOTA 2
+            7. Масова мережева рольова гра
+            https://store.steampowered.com/tags/en/MMORPG/
+                Виберіть варіант, який вам більше подобається:
+                    1. Фентезі
+                        THE ELDER SCROLLS® ONLINE
+                    2. Наукова фантастика
+                        STAR WARS™: THE OLD REPUBLIC™
+    3. Стратегії
+        Який тип стратегій вам більше подобається?
+            1. Військові стратегії
+            https://store.steampowered.com/category/strategy_military/
+                Виберіть варіант, який вам більше подобається:
+                    1. Друга світова
+                        HEARTS OF IRON IV
+                    2. Історія від початку існування людства до майбутнього
+                        SID MEIER'S CIVILIZATION® V
+                    3. Далеке майбутне
+                        STELLARIS
+                    4. Середньовіччя
+                        CRUSADER KINGS III
+            2. Містобудівельні ігри
+            https://store.steampowered.com/category/strategy_cities_settlements/
+                Виберіть варіант, який вам більше подобається:
+                    1. Симулятор колонії
+                        RIMWORLD
+                    2. Симулятор сучасного міста
+                        CITIES: SKYLINES
+            3. Стратегії в реальному часі
+            https://store.steampowered.com/category/strategy_real_time/
+                Виберіть варіант, який вам більше подобається:
+                    1. Ігри про минуле
+                        AGE OF EMPIRES
+                    2. Ігри про майбутне
+                        StarCraft II: Wings of Liberty
+    4. Пригоди
+        Який тип пригодницьких ігор вам більше подобається?
+            1. Глибокий сюжет
+            https://store.steampowered.com/category/story_rich/
+                Виберіть варіант, який вам більше подобається:
+                    1. Містика
+                        ВІДЬМАК® 3: ДИКИЙ ГІН
+                    2. Темне фентезі
+                        DARK SOULS™ III
+                    3. Минуле
+                        RED DEAD REDEMPTION 2
+            2. Головоломки
+            https://store.steampowered.com/category/puzzle_matching/
+                Виберіть варіант, який вам більше подобається:
+                    1. Двовимірні Головоломки
+                        RUSTY LAKE
+                    2. Тривимірні головоломки
+                        THE ROOM
+            3. Казуальні ігри
+            https://store.steampowered.com/category/casual/
+                Виберіть варіант, який вам більше подобається:
+                    1. Реалістичні історії
+                        The Sims™ 4
+                    2. Видумані історії
+                        Stardew Valley
+            4. Метроїдванії
+            https://store.steampowered.com/category/metroidvania/
+                Виберіть варіант, який вам більше подобається:
+                    1. Фентезі
+                        ORI AND SERIES
+                    2. Ретро
+                        CASTLEVANIA
+            5. Пригодницькі рольові ігри
+            https://store.steampowered.com/category/adventure_rpg/
+                Виберіть варіант, який вам більше подобається:
+                    1. Глибокий сюжет
+                        ВІДЬМАК® 3: ДИКИЙ ГІН
+                    2. Темне фентезі
+                        DARK SOULS™ III
+                    3. Магія
+                        HOGWARTS LEGACY
+            6. Приховані об’єкти
+            https://store.steampowered.com/category/hidden_object/
+                Виберіть варіант, який вам більше подобається:
+                    1. Стиль графіки малюнок
+                        HIDDEN FOLKS
+                    2. Стиль графіки мультфільм
+                        GRIM LEGENDS
+    5. Симулятори
+        Який тип симуляторів вам більше подобається?
+            1. Будівництво й автоматизація
+            https://store.steampowered.com/category/sim_building_automation/
+                Виберіть варіант, який вам більше подобається:
+                    1. Пісочниця
+                        GARRY'S MOD
+                    2. Автоматизація виробництва
+                        FACTORIO
+                    3. Симулятор колонії
+                        RIMWORLD
+            2. Життя й занурення
+            https://store.steampowered.com/category/sim_life/
+                Виберіть варіант, який вам більше подобається:
+                    1. Симулятор життя
+                        THE SIMS™ 4
+                    2. Симулятор роботи
+                        https://store.steampowered.com/category/sim_life/
+            3. Космос і літання
+            https://store.steampowered.com/category/sim_space_flight/
+                Виберіть варіант, який вам більше подобається:
+                    1. Симулятор космосу
+                        KERBAL SPACE PROGRAM
+                    2. Симулятор авіації
+                        MICROSOFT FLIGHT SIMULATOR
+            4. Пісочниці й фізика
+            https://store.steampowered.com/category/sim_physics_sandbox/
+                Виберіть варіант, який вам більше подобається:
+                    1. Фізичний симулятор
+                        GARRY'S MOD
+                    2. Пісочниця
+                        MINECRAFT
+            5. Фермерство й виготовлення
+            https://store.steampowered.com/category/sim_farming_crafting/
+                Виберіть варіант, який вам більше подобається:
+                    1. Симулятор техніки
+                        FARMING SIMULATOR
+                    2. Симулятор фермерства
+                        STARDEW VALLEY              
+    6. Спорт і перегони
+        Який тип спортивних ігор та перегон вам більше подобається?
+            1. Індивідуальні види спорту
+            https://store.steampowered.com/category/sports_individual/
+                Виберіть варіант, який вам більше подобається:
+                    1. Теніс
+                        VIRTUA TENNIS
+                    2. Гольф
+                        PGA TOUR 2K21
+                    3. Лижний спорт
+                        STEEP
+                    4. Боулінг
+                        PBA PRO BOWLING 2021
+                    5. Бокс
+                        EA SPORTS UFC
+            2. Командний спорт
+            https://store.steampowered.com/category/sports_team/
+                Виберіть варіант, який вам більше подобається:
+                    1. Футбол
+                        FIFA
+                    2. Баскетбол
+                        NBA 2K
+                    3. Волейбол
+                        Spike Volleyball
+            3. Перегони
+            https://store.steampowered.com/category/racing/
+                Виберіть варіант, який вам більше подобається:
+                    1. Релакс
+                        FORZA HORIZON
+                    2. Симулятор пошкоджень
+                        BEAMNG.DRIVE
+                    3. Дрифт
+                        CARX DRIFT RACING ONLINE
+                    4. Симулятор водіння
+                        ASSETTO CORSA
+            4. Полювання і риболовля
+            https://store.steampowered.com/category/sports_fishing_hunting/
+                Виберіть варіант, який вам більше подобається:
+                    1. Полювання
+                        Hunting Simulator 2
+                    2. Риболовля
+                        FISHING PLANET
